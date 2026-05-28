@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  background: #fff;
+}
+
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+p {
+  margin: 0 0 16px;
+}
+
+button {
+  font-size: 14px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
